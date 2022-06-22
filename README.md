@@ -10,4 +10,4 @@ Fix rollback MIUI version backup restore failed
 ### 安装支持库
 `pip install xmltodict dicttoxml`
 ### 运行
-py "Xiaomi XML Process.py" descript.xml
+`py "Xiaomi XML Process.py" descript.xml`
